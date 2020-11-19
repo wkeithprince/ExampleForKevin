@@ -54,3 +54,7 @@ Right click on the folder named Controllers, select Add and choose Controller. T
 You should now be able to run the application and navigate to the URL underlined in red and see the results underlined in blue. (Your URL may be named different if you named your controller a different name and your data make look different as your data will be different)
 
 ![image](https://user-images.githubusercontent.com/12174036/99692170-ff60fe00-2a57-11eb-8067-140b3242a134.png)
+
+Here is what the Database looks like. Notice that two records of data match the previous screenshot of data. 
+
+![image](https://user-images.githubusercontent.com/12174036/99711023-43abc880-2a6f-11eb-8910-94d25c4067ba.png)
