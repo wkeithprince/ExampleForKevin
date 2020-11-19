@@ -8,6 +8,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleForKevin.Data", "ExampleForKevin.Data\ExampleForKevin.Data.csproj", "{B6EA8A70-4D16-42C9-A6C5-C7473558078F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMeImages", "ReadMeImages", "{A05D7AAC-65C5-441C-8E87-A46271F8AFA4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - ScanSource, Inc\Desktop\ExampleForKevin\DB Scaffold.JPG = ..\..\..\..\OneDrive - ScanSource, Inc\Desktop\ExampleForKevin\DB Scaffold.JPG
+		..\..\..\..\OneDrive - ScanSource, Inc\Desktop\ExampleForKevin\ProjectOptionSelection.JPG = ..\..\..\..\OneDrive - ScanSource, Inc\Desktop\ExampleForKevin\ProjectOptionSelection.JPG
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
