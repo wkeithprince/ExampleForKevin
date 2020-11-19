@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleForKevinWithApi", "ExampleForKevinWithApi\ExampleForKevinWithApi.csproj", "{B6EB5D20-1DDC-4D6F-B0B7-E6D7319982D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleForKevinWithApi", "ExampleForKevinWithApi\ExampleForKevinWithApi.csproj", "{B6EB5D20-1DDC-4D6F-B0B7-E6D7319982D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleForKevin.Data", "ExampleForKevin.Data\ExampleForKevin.Data.csproj", "{B6EA8A70-4D16-42C9-A6C5-C7473558078F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleForKevin.Data", "ExampleForKevin.Data\ExampleForKevin.Data.csproj", "{B6EA8A70-4D16-42C9-A6C5-C7473558078F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMeImages", "ReadMeImages", "{A05D7AAC-65C5-441C-8E87-A46271F8AFA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
